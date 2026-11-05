@@ -62,7 +62,7 @@ _Mock renders from the theme files, not yet captured on hardware._
 
 | | |
 |---|---|
-| ![dashboard](previews/dashboard.png) | ![settings menu](previews/menu.png) |
+| ![dashboard](previews/dashboard-bear.png) | ![settings menu](previews/menu.png) |
 | ![option dialog](previews/option.png) | ![confirmation dialog](previews/dialog.png) |
 | ![payloads](previews/payloads.png) | ![power menu](previews/power.png) |
 | ![Wi-Fi recon](previews/recon.png) | ![Bluetooth recon](previews/bt_recon.png) |
