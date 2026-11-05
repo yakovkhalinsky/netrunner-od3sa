@@ -1,0 +1,18 @@
+# Previews
+
+**Mock renders from the theme files, not yet captured on hardware.** They will be replaced by real Pager captures.
+
+Rendered at the Pager's 480x222 resolution from this theme's component JSON and assets (layouts, templates,
+status bars and palette as shipped). Differences from the device: DejaVu Sans Mono stands in for the Pager font,
+and all values are dummy data (fake SSIDs/devices, MACs in 00:11:22:33:44:xx).
+
+| File | Screen |
+|---|---|
+| dashboard.png | Main dashboard |
+| menu.png | Settings > General |
+| option.png | Option dialog (volume) |
+| dialog.png | Confirmation dialog |
+| payloads.png | Payloads dashboard |
+| power.png | Power menu |
+| recon.png | Wi-Fi recon list |
+| bt_recon.png | Bluetooth recon list (firmware 2.0) |

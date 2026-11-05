@@ -55,3 +55,14 @@ It will show framework/missing-component warnings on 1.x firmware.
 scp -r netrunner-od3sa/ root@172.16.52.1:/mmc/root/themes/
 ```
 Then select it under **Settings > Display > Theme**.
+
+## Screenshots
+
+_Mock renders from the theme files, not yet captured on hardware._
+
+| | |
+|---|---|
+| ![dashboard](previews/dashboard.png) | ![settings menu](previews/menu.png) |
+| ![option dialog](previews/option.png) | ![confirmation dialog](previews/dialog.png) |
+| ![payloads](previews/payloads.png) | ![power menu](previews/power.png) |
+| ![Wi-Fi recon](previews/recon.png) | ![Bluetooth recon](previews/bt_recon.png) |

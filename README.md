@@ -14,3 +14,14 @@ Layout matches the official [wifipineapplepager-themes](https://github.com/hak5/
 See [themes/netrunner-od3sa/README.md](themes/netrunner-od3sa/README.md) for palette, credits and known limitations.
 
 **Author:** Yakov Khalinsky
+
+## Screenshots
+
+_Mock renders from the theme files, not yet captured on hardware._
+
+| | |
+|---|---|
+| ![dashboard](themes/netrunner-od3sa/previews/dashboard.png) | ![settings menu](themes/netrunner-od3sa/previews/menu.png) |
+| ![option dialog](themes/netrunner-od3sa/previews/option.png) | ![confirmation dialog](themes/netrunner-od3sa/previews/dialog.png) |
+| ![payloads](themes/netrunner-od3sa/previews/payloads.png) | ![power menu](themes/netrunner-od3sa/previews/power.png) |
+| ![Wi-Fi recon](themes/netrunner-od3sa/previews/recon.png) | ![Bluetooth recon](themes/netrunner-od3sa/previews/bt_recon.png) |
