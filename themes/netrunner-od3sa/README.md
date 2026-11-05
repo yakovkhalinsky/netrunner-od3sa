@@ -66,3 +66,14 @@ _Mock renders from the theme files, not yet captured on hardware._
 | ![option dialog](previews/option.png) | ![confirmation dialog](previews/dialog.png) |
 | ![payloads](previews/payloads.png) | ![power menu](previews/power.png) |
 | ![Wi-Fi recon](previews/recon.png) | ![Bluetooth recon](previews/bt_recon.png) |
+
+### Boot screen
+
+The "JACKING IN" boot animation, taken frame for frame from the theme's own boot images.
+
+![boot animation](previews/boot.gif)
+
+| | |
+|---|---|
+| ![boot frame 1](previews/boot-1.png) | ![boot frame 2](previews/boot-2.png) |
+| ![boot frame 3](previews/boot-3.png) | ![boot frame 4](previews/boot-4.png) |

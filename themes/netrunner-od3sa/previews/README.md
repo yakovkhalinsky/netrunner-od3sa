@@ -16,3 +16,5 @@ and all values are dummy data (fake SSIDs/devices, MACs in 00:11:22:33:44:xx).
 | power.png | Power menu |
 | recon.png | Wi-Fi recon list |
 | bt_recon.png | Bluetooth recon list (firmware 2.0) |
+| boot.gif | Boot animation (all four frames) |
+| boot-1.png to boot-4.png | Boot animation frames, exact copies of the theme's boot images |

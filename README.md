@@ -25,3 +25,14 @@ _Mock renders from the theme files, not yet captured on hardware._
 | ![option dialog](themes/netrunner-od3sa/previews/option.png) | ![confirmation dialog](themes/netrunner-od3sa/previews/dialog.png) |
 | ![payloads](themes/netrunner-od3sa/previews/payloads.png) | ![power menu](themes/netrunner-od3sa/previews/power.png) |
 | ![Wi-Fi recon](themes/netrunner-od3sa/previews/recon.png) | ![Bluetooth recon](themes/netrunner-od3sa/previews/bt_recon.png) |
+
+### Boot screen
+
+The "JACKING IN" boot animation, taken frame for frame from the theme's own boot images.
+
+![boot animation](themes/netrunner-od3sa/previews/boot.gif)
+
+| | |
+|---|---|
+| ![boot frame 1](themes/netrunner-od3sa/previews/boot-1.png) | ![boot frame 2](themes/netrunner-od3sa/previews/boot-2.png) |
+| ![boot frame 3](themes/netrunner-od3sa/previews/boot-3.png) | ![boot frame 4](themes/netrunner-od3sa/previews/boot-4.png) |
