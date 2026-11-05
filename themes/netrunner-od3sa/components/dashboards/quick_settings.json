@@ -21,13 +21,13 @@
       "menu_items": [
         {
           "id": "Brightness",
-          "x":45,
-          "y":35,
+          "x": 45,
+          "y": 35,
           "layers": [
             { "text": "Brightness", "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "image_path": "assets/alerts_dashboard/sub.png","x": -38, "y": 5 },
+            { "image_path": "assets/alerts_dashboard/sub.png", "x": -38, "y": 5 },
             { "text": "Brightness", "text_color_palette": "yellow" }
           ],
           "target": "option_dialog_narrow",
@@ -35,13 +35,13 @@
         },
         {
           "id": "Volume",
-          "x":45,
-          "y":70,
+          "x": 45,
+          "y": 70,
           "layers": [
             { "text": "Volume", "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "image_path": "assets/alerts_dashboard/sub.png","x": -38, "y": 5 },
+            { "image_path": "assets/alerts_dashboard/sub.png", "x": -38, "y": 5 },
             { "text": "Volume", "text_color_palette": "yellow" }
           ],
           "target": "option_dialog_narrow",
@@ -49,14 +49,14 @@
         },
         {
           "id": "Vibrate",
-          "x":45,
-          "y":105,
+          "x": 45,
+          "y": 105,
           "layers": [
-            { "variable_name":  "$_VIBRATE", "x": -38, "use_template": "green_toggle" },
+            { "variable_name": "$_VIBRATE", "x": -38, "use_template": "green_toggle" },
             { "text": "Vibrate", "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "variable_name":  "$_VIBRATE", "x": -38, "use_template": "green_toggle" },
+            { "variable_name": "$_VIBRATE", "x": -38, "use_template": "green_toggle" },
             { "text": "Vibrate", "text_color_palette": "yellow" }
           ],
           "target": "inline_toggle",
@@ -64,14 +64,14 @@
         },
         {
           "id": "Client Mode",
-          "x":45,
-          "y":140,
+          "x": 45,
+          "y": 140,
           "layers": [
-            { "variable_name":  "$_WIFI_CLIENT_MODE_ENABLED", "x": -38, "use_template": "green_toggle" },
+            { "variable_name": "$_WIFI_CLIENT_MODE_ENABLED", "x": -38, "use_template": "green_toggle" },
             { "text": "Client Mode", "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "variable_name":  "$_WIFI_CLIENT_MODE_ENABLED", "x": -38, "use_template": "green_toggle" },
+            { "variable_name": "$_WIFI_CLIENT_MODE_ENABLED", "x": -38, "use_template": "green_toggle" },
             { "text": "Client Mode", "text_color_palette": "yellow" }
           ],
           "target": "inline_toggle",
@@ -79,13 +79,13 @@
         },
         {
           "id": "Client Setup",
-          "x":45,
-          "y":175,
+          "x": 45,
+          "y": 175,
           "layers": [
             { "text": "Client Setup", "text_color_palette": "green" }
           ],
           "selected_layers": [
-            { "image_path": "assets/alerts_dashboard/sub.png","x": -38, "y": 5 },
+            { "image_path": "assets/alerts_dashboard/sub.png", "x": -38, "y": 5 },
             { "text": "Client Setup", "text_color_palette": "yellow" }
           ],
           "target": "client_mode_wizard"
@@ -93,5 +93,4 @@
       ]
     }
   ]
-
 }

@@ -8,8 +8,8 @@ accent `#00ff9f`, cyan `#00f0ff`, hot red `#ff2a6e`, magenta `#ff10f0`, on a nea
 
 ## Description / inspiration
 
-- Built from **wargames** (theme_version 1.1.3, theme_framework_version 0.8), tested against the copy in
-  `hak5/wifipineapplepager-themes` at commit `beb725c`. Layouts and components are unchanged from wargames,
+- Built from **wargames** (theme_version 2.0.0, theme_framework_version 0.9), rebased on the copy in
+  `hak5/wifipineapplepager-themes` at commit `11ade42`. Layouts and components are unchanged from wargames,
   so every screen and template is the stock one.
 - `theme.json` `color_palette` remapped to the netrunner palette:
   - normal text/chrome (`blue`) → cyan `#00f0ff`
@@ -38,11 +38,20 @@ accent `#00ff9f`, cyan `#00f0ff`, hot red `#ff2a6e`, magenta `#ff10f0`, on a nea
 
 ## Firmware
 
-Developed for the firmware that ships wargames theme_version **1.1.3** (Pager firmware 1.1.3).
+Developed for Pager firmware **2.0.0** (wargames theme_version 2.0.0, theme framework **0.9**).
+It will show framework/missing-component warnings on 1.x firmware.
+
+2.0 screens covered (all from the wargames 2.0.0 base, recoloured to the netrunner palette):
+- Bluetooth recon list, selected device and advertising-data screens (`bt_recon_*`, `bt_rssi_*`, `bt_signal`)
+- Help pages on settings / PineAP rows (`*_explained` menus, `help.png`)
+- GPS advanced settings and Bluetooth settings submenus
+- Start New Scan chooser (`recon_new_scan_submenu`)
+- Quick Settings and the Sleep Screen entry on the power menu
+- New status-bar icons: BT scan, BT mode (classic/LE/both), database, GPS states; new `bt_recon` status bar
 
 ## Install
 
 ```
-scp -r netrunner/ root@172.16.52.1:/mmc/root/themes/
+scp -r netrunner-od3sa/ root@172.16.52.1:/mmc/root/themes/
 ```
 Then select it under **Settings > Display > Theme**.
