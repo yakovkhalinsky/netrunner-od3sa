@@ -8,7 +8,7 @@ and all values are dummy data (fake SSIDs/devices, MACs in 00:11:22:33:44:xx).
 
 | File | Screen |
 |---|---|
-| dashboard.png | Main dashboard |
+| dashboard-bear.png | Main dashboard |
 | menu.png | Settings > General |
 | option.png | Option dialog (volume) |
 | dialog.png | Confirmation dialog |
