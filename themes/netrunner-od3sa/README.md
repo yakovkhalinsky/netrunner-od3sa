@@ -27,8 +27,8 @@ accent `#00ff9f`, cyan `#00f0ff`, hot red `#ff2a6e`, magenta `#ff10f0`, on a nea
 
 ## Known limitations
 
-- **Not yet tested on real hardware.** Everything was validated offline: JSON parses, all references resolve,
-  and image sizes match wargames.
+- Running on a real WiFi Pineapple Pager with firmware 2.0.0. It was also validated offline: JSON parses,
+  all references resolve, and image sizes match wargames.
 - Uses the green/cyan family heavily, so `yellow` (selection) and `green` (enabled/success) are close in hue
   (`#00ff9f` vs `#39ffbf`).
 - QR code images (`help_qr`, `license_qr`, `virt_qr`) are intentionally left as in wargames.
@@ -58,7 +58,7 @@ Then select it under **Settings > Display > Theme**.
 
 ## Screenshots
 
-_Mock renders from the theme files, not yet captured on hardware._
+_Mock renders from the theme files (the theme itself runs on a real Pager with firmware 2.0); boot frames are the theme's own images._
 
 | | |
 |---|---|

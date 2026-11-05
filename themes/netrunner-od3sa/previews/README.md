@@ -1,6 +1,6 @@
 # Previews
 
-**Mock renders from the theme files, not yet captured on hardware.** They will be replaced by real Pager captures.
+**Mock renders from the theme files.** The theme runs on a real Pager with firmware 2.0; these images may be replaced by real Pager captures later.
 
 Rendered at the Pager's 480x222 resolution from this theme's component JSON and assets (layouts, templates,
 status bars and palette as shipped). Differences from the device: DejaVu Sans Mono stands in for the Pager font,

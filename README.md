@@ -17,7 +17,7 @@ See [themes/netrunner-od3sa/README.md](themes/netrunner-od3sa/README.md) for pal
 
 ## Screenshots
 
-_Mock renders from the theme files, not yet captured on hardware._
+_Mock renders from the theme files (the theme itself runs on a real Pager with firmware 2.0); boot frames are the theme's own images._
 
 | | |
 |---|---|
